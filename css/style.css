@@ -1,4 +1,50 @@
 body{
-    background-color: cornflowerblue;
+    background-color: rgb(68, 165, 255);
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+nav a{
+    margin-right: 8px;
+}
+
+a{
+    text-decoration: none;
     color: white;
 }
+
+a:hover{
+    transition: ease;
+    transition-duration: 1.0s;
+    background-color: rgb(64, 77, 255);
+    padding: 0px 4px;
+    border-radius: 4px;
+}
+
+a:active{
+    transition: ease;
+    transition-duration: 1.0s;
+    background-color: rgb(64, 77, 255);
+    padding: 0px 4px;
+    border-radius: 4px;
+}
+
+.foto-robo img{
+    width: 360px;
+    height: 360px;
+    border-radius: 16px;
+}
+
+.video-robo iframe{
+    width: 360px;
+    height: 360px;
+    border-radius: 16px;
+}
+
+.mapa-robo iframe{
+    width: 360px;
+    height: 360px;
+    border-radius: 16px;
+}
+

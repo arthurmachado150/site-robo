@@ -48,3 +48,17 @@ a:active{
     border-radius: 16px;
 }
 
+.especificacoes{
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.so{
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.ur_os{
+    font-size: 1.8rem;
+    font-weight: bold;
+}

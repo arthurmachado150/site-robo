@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(68, 165, 255);
+    background-color: rgb(97, 179, 255);
     color: white;
     text-align: center;
     font-size: 1.2rem;
@@ -61,4 +61,19 @@ a:active{
 .ur_os{
     font-size: 1.8rem;
     font-weight: bold;
+}
+
+.linguagem_robo_ur3e{
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.imagem_robo_ur3e img{
+    border-radius: 16px;
+    border: black 3px solid;
+}
+
+.foto_especificacoes_robo_ur3e img{
+    border-radius: 10px;
+    border: black 3px solid;
 }

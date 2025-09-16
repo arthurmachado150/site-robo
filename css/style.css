@@ -17,7 +17,7 @@ a{
 a:hover{
     transition: ease;
     transition-duration: 1.0s;
-    background-color: rgb(64, 77, 255);
+    background-color: rgb(35, 112, 255);
     padding: 0px 4px;
     border-radius: 4px;
 }
@@ -25,7 +25,7 @@ a:hover{
 a:active{
     transition: ease;
     transition-duration: 1.0s;
-    background-color: rgb(64, 77, 255);
+    background-color: rgb(35, 112, 255);
     padding: 0px 4px;
     border-radius: 4px;
 }
@@ -49,22 +49,22 @@ a:active{
 }
 
 .especificacoes{
-    font-size: 1.8rem;
+    font-size: 2rem;
     font-weight: bold;
 }
 
 .so{
-    font-size: 1.8rem;
+    font-size: 2rem;
     font-weight: bold;
 }
 
 .ur_os{
-    font-size: 1.8rem;
+    font-size: 2rem;
     font-weight: bold;
 }
 
 .linguagem_robo_ur3e{
-    font-size: 1.8rem;
+    font-size: 2rem;
     font-weight: bold;
 }
 
@@ -77,3 +77,29 @@ a:active{
     border-radius: 10px;
     border: black 3px solid;
 }
+
+.sg_universal_robots{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.conclusao_robo_ur3e{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.sede_global_un_r iframe{
+    border-radius: 14px;
+    border: black 3px solid;
+}
+
+.exemplo_de_funcionamento_robo_ur3e{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.video_do_robo_ur3e_funcionando iframe{
+    border-radius: 14px;
+    border: rgb(27, 27, 27) 3px solid;
+}
+

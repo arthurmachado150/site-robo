@@ -30,24 +30,6 @@ a:active{
     border-radius: 4px;
 }
 
-.foto-robo img{
-    width: 360px;
-    height: 360px;
-    border-radius: 16px;
-}
-
-.video-robo iframe{
-    width: 360px;
-    height: 360px;
-    border-radius: 16px;
-}
-
-.mapa-robo iframe{
-    width: 360px;
-    height: 360px;
-    border-radius: 16px;
-}
-
 .especificacoes{
     font-size: 2rem;
     font-weight: bold;
@@ -103,3 +85,67 @@ a:active{
     border: rgb(27, 27, 27) 3px solid;
 }
 
+.robos_industriais{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.robos_colaborativos{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.caracteristicas{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.diferencas_dos_robos_industriais{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.aplicacoes_gerais_por_tipo_de_tarefa{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.exemplos_de_aplicacao_em_diferentes_setores{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.conclusao_robos_industriais_e_colaborativos{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.conclusao_robos_na_industria{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.linguagens_mais_comuns_na_robotica{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.logo_python img{
+    border-radius: 16px;
+    border: black 3px solid;
+}
+
+.logo_c_c img{
+    border-radius: 16px;
+    border: black 3px solid;
+}
+
+.logo_java img{
+    border-radius: 16px;
+    border: black 3px solid;
+}
+
+.logo_matlab img{
+    border-radius: 16px;
+    border: black 3px solid;
+}
